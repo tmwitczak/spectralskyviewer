@@ -20,3 +20,6 @@ settings.json
 Debug/
 Release/
 .vs
+
+# Additional files
+*.vcxproj.user
